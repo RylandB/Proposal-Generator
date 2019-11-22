@@ -13,8 +13,8 @@
  ### Running our software
  
  1. You will recieve a .zip archive that you need to extract, you will receive two folders.
- - Pumav1
- - Simv1
+ - PumaV1
+ - SimV1
  
 2. Both of these need to be run in order for the project to work
 Open both folders, you will find windows application files named
