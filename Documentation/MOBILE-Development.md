@@ -26,14 +26,20 @@ Once you have set up React Native, Android, Studio and have the project opened i
 
 ### Important Folders:
 
--android: all of the assets and code for the android native application. Usually no need to touch items in here as react-native will handle the contents.
+ -android: all of the assets and code for the android native application. Usually no need to touch items in here as react-native will handle the contents.
+ 
 -ios: same as above.
+
 -Screens: folder containg all of the rendered screens that are navigable by the bottom bar in the application. These are the parent components of each screen, and child components of the app.
+
 -contexts: folder containing all of the context components used in the app. Think of these as Scoped global data that can be accessed by all child components should they choose.
+
 -Components: folder containing all child components for any of the screen components.
 
 
 ### Important Files
+
 -App.js This is the root component for the entire app, any context used here will be essentially global.
+
 -package.json: this file lists all dependencies that are required by the project.
 
