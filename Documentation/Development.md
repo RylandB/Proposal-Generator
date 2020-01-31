@@ -36,6 +36,5 @@ In the project folder, there are 4 main folders:
 
 2. Once the dependencies are installed you can begin to explore the folder structure on the left side of the project. Make sure to go into the CS495-Capstone-Puma C# project folder, inside of here you will find our front and backends. The front end is placed in the ClientApp folder and the back end occupies the other folders.
 
-3. In order to run our project properly you will need to setup a launch settings file, start by adding a new directory to the root of the C# project and naming it "Properties". 
-It should look like this 
-![](Documentation/images/directory.png)
+3. In order to run our project properly you will need to setup a launch settings file, start by adding a new directory to the root of the C# project and naming it "Properties". It should look like this.  
+* ![](images/directory.png)
