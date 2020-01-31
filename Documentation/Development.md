@@ -29,3 +29,13 @@ In the project folder, there are 4 main folders:
 	* Code for interfacing with Cheetah software
 		* HttpRequests
 		* Parsing Cheetah JSON Response
+		
+## Running the project within the development enviornment
+
+1. The first thing you will notice is an installation for our dependancies. Please make sure to run the 'npm install' that will appear in the bottom right of the IDE.
+
+2. Once the dependencies are installed you can begin to explore the folder structure on the left side of the project. Make sure to go into the CS495-Capstone-Puma C# project folder, inside of here you will find our front and backends. The front end is placed in the ClientApp folder and the back end occupies the other folders.
+
+3. In order to run our project properly you will need to setup a launch settings file, start by adding a new directory to the root of the C# project and naming it "Properties". 
+It should look like this 
+![](Documentation/images/directory.png)
