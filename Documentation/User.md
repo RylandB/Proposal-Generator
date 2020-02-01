@@ -19,7 +19,7 @@
 
 ## Using Puma
 
-- You will first be greated with the Account Holder Information fields
+- You will first be greeted with the Account Holder Information fields
   - You should fill these out first before moving on to any other tab
 - Click on whichever tab (located on the top of the page) you wish to add an asset to 
 - On the top right of the table to the right of the search bar is a '+' sign, click it
