@@ -5,7 +5,9 @@ Certain tests can be run by downloading the source code and opening it in a C# I
 ##### All backend tests are contained within the CS495-Capstone-Puma.UnitTests Project
 
 ## Logic Testing
-To run tests, open the IDE's Test Explorer. The tests currently existing in the code are as follows:
+To run tests, open the IDE's Test Explorer. Run all tests in the project. If you are using Jetbrains Rider, right click the project and choose "Run Unit Tests"
+
+The tests currently existing in the code are as follows:
 - TestLoadConfig 
   - Tests the proper initialization of Handler class
 - TestPostAccessToken 
