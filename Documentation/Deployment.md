@@ -14,7 +14,7 @@
  
 1. You will recieve a .zip archive that you need to extract inside will have our puma version 2
  
-2. after this there will need to be an update run on one of the json files. You will need to reach out to one of us as this is API sensitive information. This is referenced in the User.md file
+2. After this there will need to be an update run on one of the JSON files. The file named cheetah-config.JSON will need to have the api key updated in order for there to be proper communication with the API. By default this file should have blank values which will allow the project itself to run but it wont properly communicate with the API. In order to get this API key you will need to reachout to one of the group members for it as it is private. There is further communication information on the User.md file.
 
 3. run CS495-Capstone-Puma.exe
 
