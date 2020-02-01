@@ -15,7 +15,7 @@ To run tests, open the IDE's Test Explorer. The tests currently existing in the 
 
 ## Elevated Permissions Communication Testing
 These tests can only be performed by someone with valid Cheetah Credentials. 
-Without these credentials, the system will error.
+Without these credentials, the tests will always fail.
 Login and Password should be placed within the "login.json" file in the CS495-Capstone-Puma.UnitTests project.
 
 - ElevatedTestPostAccessToken
