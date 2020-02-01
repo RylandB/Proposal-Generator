@@ -2,12 +2,28 @@
 Most functionality of Puma is reliant on having valid Cheetah login credentials. As such, testing is only possible in a limited capacity.
 Certain tests can be run by downloading the source code and opening it in a C# IDE. Our development environment uses Jetbrains Rider.
 
-## Flurl Testing
-After opening the project, the CS495-Capstone-Puma.UnitTests Project contains all tests. Those tests can be run through the Rider IDE.
-This will test for proper Flurl usage and syntax.
+##### All backend tests are contained within the CS495-Capstone-Puma.UnitTests Project
 
-## Javascript Testing
+## Logic Testing
+To run tests, open the IDE's Test Explorer. The tests currently existing in the code are as follows:
+- TestLoadConfig 
+  - Tests the proper initialization of Handler class
+- TestPostAccessToken 
+  - Tests Request formatting & response handling
+- TestPostBadAccessToken 
+  - Tests Request formatting & error handling
 
+## Elevated Permissions Communication Testing
+These tests can only be performed by someone with valid Cheetah Credentials. 
+Without these credentials, the system will error.
+Login and Password should be placed within the "login.json" file in the CS495-Capstone-Puma.UnitTests project.
 
-## API Communication Testing
-These tests can only be performed by someone with valid Cheetah Credentials. Without these credentials, the system will error.
+- ElevatedTestPostAccessToken
+  - Posts login credentials to Cheetah
+  - Receives realtime response
+- ElevatedTestPostAssets
+  - Posts an asset to a Cheetah Account
+  - Checks for success response
+- ElevatedTestBadPostAssets
+  - Attempts to post an empty list of assets
+  - Checks for failure response
