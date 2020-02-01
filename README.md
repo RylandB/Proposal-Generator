@@ -30,7 +30,8 @@ Accutech Systems
 
 ## **Code Repositories**
 
-- [Source Code](https://github.com/japperales/CS495-Capstone-Puma)
+- [Web Application Source Code](https://github.com/japperales/CS495-Capstone-Puma)
+- [Mobile App Source Code](https://github.com/japperales/CS495-Puma-Mobile)
 - [.NET Backend](https://dotnet.microsoft.com/)
 - [Tesseract](https://github.com/tesseract-ocr/tesseract)
 - [React JS](https://reactjs.org/)
