@@ -20,6 +20,8 @@ the Puma backend to be evaluated and receive results to display from the submiss
 
 Download the Puma Mobile repository from here: https://github.com/japperales/CS495-Puma-Mobile
 
+Release 1.0 (https://github.com/japperales/CS495-Puma-Mobile/releases/tag/v1.0)
+
 To set up React Native and Android Studio, please follow the guide here under "React Native CLI Quickstart" -> "Windows" -> "Android"(Ignore the "creating a new application" section) : https://facebook.github.io/react-native/docs/getting-started
 
 Once you have set up React Native, Android, Studio and have the project opened in Webstorm, you may need to install the dependencies. Do this by running "npm install" through the terminal in the root directory of the application.
