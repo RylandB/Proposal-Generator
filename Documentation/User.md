@@ -13,7 +13,7 @@
 - Locate CS495-Capstone-Puma.exe and run it
 - Once the executable has run, copy the https://localhost:5001 url into your preferred browser
 - Upon runnin, you will be greeted with a login screen. Use your Cheetah login to continue
-* ![](images/loginScreen.png)
+* ![](images/loginScreen.PNG)
   - If you do not have a Cheetah login, contact any of the Puma team (*see below*) for a live demo
   
 
@@ -22,11 +22,11 @@
 
 - Once logged in, you should first make your way to the "Input Data" tab
 - Fill out your data using the input fields on the left of the screen
-* ![](images/inputAssets.png)
+* ![](images/inputAssets.PNG)
 - Once finished building your porfolio, use the link in the bottom right of the page as well as the "Submit Portfolio" button
-* ![](images/submitPortfolio.png)
+* ![](images/submitPortfolio.PNG)
 - After Cheetah has been sent your data, it is time to move to the "Results" tab to see your results
-* ![](images/tabs.png)
+* ![](images/tabs.PNG)
 - You can now use the side-by-side comparison to see how much using Accutech will change your profits
 
 ## Contact
