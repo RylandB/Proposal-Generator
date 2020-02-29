@@ -9,7 +9,7 @@
 
 ## Getting Started
 
-- Download the PumaVersion3.zip file and unzip it
+- Download the PumaVersion4.zip file and unzip it
 - Locate CS495-Capstone-Puma.exe and run it
 - Once the executable has run, copy the https://localhost:5001 url into your preferred browser
 - Upon runnin, you will be greeted with a login screen. Use your Cheetah login to continue
@@ -20,16 +20,10 @@
 ## Using Puma
 
 - Once logged in, you should first make your way to the "Input Data" tab
-- Here, you will be greeted with fields for:
-  - Asset Code
-  - Symbol
-  - Issue
-  - Issuer
-  - Quantity
-- You should now fill these out according to the data you would like to submit
-- Once filled out, navigate to the "Results Tab"
-- Here, you will be greeted with a "Submit Info" button. Click it to retrieve your results
-- After a short wait, you will be greeted with your results
+- Fill out your data using the input fields on the left of the screen
+- Once finished building your porfolio, use the link in the bottom right of the page as well as the "Submit" button
+- After Cheetah has been sent your data, it is time to move to the "Results" tab to see your results
+- You can now use the side-by-side comparison to see how much using Accutech will change your profits
 
 ## Contact
 - japerales@bsu.edu
