@@ -12,7 +12,7 @@
  
  ## **Running our software**
  
-1. You will recieve a .zip archive that you need to extract inside will have our puma version 3
+1. You will recieve a .zip archive that you need to extract inside will have our puma version 5
  
 2. After this there will need to be an update run on one of the JSON files. The file named cheetah-config.JSON will need to have the api key updated in order for there to be proper communication with the API. By default this file should have blank values which will allow the project itself to run but it wont properly communicate with the API. In order to get this API key you will need to reachout to one of the group members for it as it is private. There is further contact information on the User.md file.
 
