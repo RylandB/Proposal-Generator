@@ -12,7 +12,7 @@
 - Download the PumaVersion5.zip file and unzip it
 - Locate CS495-Capstone-Puma.exe and run it
 - Once the executable has run, copy the https://localhost:5001 url into your preferred browser
-- Upon runnin, you will be greeted with a login screen. Use your Cheetah login to continue
+- Upon running, you will be greeted with a login screen. Use your Cheetah login to continue
 * ![](images/loginScreenn.png)
   - If you do not have a Cheetah login, contact any of the Puma team (*see below*) for a live demo
   
