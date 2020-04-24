@@ -9,7 +9,7 @@
 
 ## Getting Started
 
-- Download the PumaVersion4.zip file and unzip it
+- Download the PumaVersion5.zip file and unzip it
 - Locate CS495-Capstone-Puma.exe and run it
 - Once the executable has run, copy the https://localhost:5001 url into your preferred browser
 - Upon runnin, you will be greeted with a login screen. Use your Cheetah login to continue
@@ -20,7 +20,8 @@
 
 ## Using Puma
 
-- Once logged in, you should first make your way to the "Input Data" tab
+- Once logged in, you can chose to use the OCR or the input data tab for data entry. The OCR can be used for automatic data fill and will give you an option to select which table of information you want. Here is an example of the OCR file upload. You first select your file from chose file, then select upload to have to OCR work. Once finished you will select submit selected box at the bottom
+* ![](images/OCRfileselect.png)
 - Fill out your data using the input fields on the left of the screen
 * ![](images/inputAssets.png)
 - Once finished building your porfolio, use the link in the bottom right of the page as well as the "Submit Portfolio" button
