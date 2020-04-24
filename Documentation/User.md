@@ -26,7 +26,7 @@
 - Once finished building your porfolio, use the link in the bottom right of the page as well as the "Submit Portfolio" button
 * ![](images/submitPortfolio.png)
 - After Cheetah has been sent your data, it is time to move to the "Results" tab to see your results
-* ![](images/tabs.png)
+
 - You can now use the side-by-side comparison to see how much using Accutech will change your profits
 
 ## Contact
