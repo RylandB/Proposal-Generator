@@ -5,6 +5,8 @@ Puma is a Web application using:
 * C# asp.net core (2.1 backend
 * Local hosting
 * MVC architecture (per asp.net core)
+* Temporary python middleman server for Textract
+  * Textract for C# is in closed Beta
 
 ## Development Environment
 * NPM: https://www.npmjs.com/ **OR** Yarn: https://yarnpkg.com/lang/en/
